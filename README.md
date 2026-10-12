@@ -1,0 +1,2 @@
+# AnnaeherungVermeidung
+Persönlicher Annäherungs- Vermeidungsmonitor
